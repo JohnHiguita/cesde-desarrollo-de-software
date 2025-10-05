@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* deja el body sin fondo para que se vea el bg del componente */
+body { @apply font-sans; }
